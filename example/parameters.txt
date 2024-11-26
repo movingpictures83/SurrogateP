@@ -1,0 +1,3 @@
+pheno	pheno.csv
+edata	edata.csv
+numsv	2

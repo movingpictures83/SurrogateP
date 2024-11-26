@@ -1,0 +1,2 @@
+Prefix plugins/SurrogateP/example/
+Plugin SurrogateP inputfile parameters.txt outputfile surrogate.csv
